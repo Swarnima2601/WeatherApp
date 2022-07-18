@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="clear_sky">Clear Sky</string>
+</resources>
